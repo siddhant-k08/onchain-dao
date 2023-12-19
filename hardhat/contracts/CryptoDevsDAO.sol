@@ -198,6 +198,6 @@ receive() external payable {}
 fallback() external payable {}
 }
 
-// CryptoDevsDAO deployed to: 0xEaE897FE0AeE63fCc5Ccdd5014F6a845BFC93Ae7
+// CryptoDevsDAO deployed to: 0x4921c0E7c1F7d51CF93e1451a5EEDEdC34DdDF9C
 // Successfully verified contract CryptoDevsDAO on the block explorer.
-// https://sepolia.etherscan.io/address/0xEaE897FE0AeE63fCc5Ccdd5014F6a845BFC93Ae7#code
+// https://sepolia.etherscan.io/address/0x4921c0E7c1F7d51CF93e1451a5EEDEdC34DdDF9C#code
