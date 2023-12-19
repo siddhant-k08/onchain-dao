@@ -41,6 +41,9 @@ interface ICryptoDevsNFT {
 }
 
 contract CryptoDevsDAO is Ownable {
+
+    // Create an event emiting all function calls
+event ProposalCreated (uint256 nftTokenId);
     // Create a struct named Proposal containing all relevant information
 struct Proposal {
     // nftTokenId - the tokenID of the NFT to purchase from FakeNFTMarketplace if the proposal passes
@@ -94,7 +97,8 @@ function createProposal(uint256 _nftTokenId)
     proposal.deadline = block.timestamp + 5 minutes;
 
     numProposals++;
-
+    
+    emit ProposalCreated(_nftTokenId);
     return numProposals - 1;
 }
 
