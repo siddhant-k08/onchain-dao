@@ -13,6 +13,8 @@ contract CryptoDevsNFT is ERC721Enumerable {
     }
 }
 
-// CryptoDevsNFT deployed to: 0x13D5184244403d6Ce3Cb90855b171AB07e766514
-/**The contract 0x13D5184244403d6Ce3Cb90855b171AB07e766514 has already been verified.
-https://sepolia.etherscan.io/address/0x13D5184244403d6Ce3Cb90855b171AB07e766514#code */
+
+
+//CryptoDevsDAO deployed to: 0xeCC6FE1C679912d38E037C1dB0756Df58def02b8
+/**Successfully verified contract CryptoDevsNFT on the block explorer.
+https://sepolia.etherscan.io/address/0xeCC6FE1C679912d38E037C1dB0756Df58def02b8*/
