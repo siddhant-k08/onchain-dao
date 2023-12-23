@@ -32,7 +32,7 @@ contract FakeNFTMarketplace {
     }
 }
 
-// FakeNFTMarketplace deployed to: 0xD0ec39434632A9F397d2999075C4037EB1c417a0
+// FakeNFTMarketplace deployed to: 0x4Cfb02A98580E80952f730581400384d164EDB2E#code
 
-/** The contract 0x21b3866B762C8849b080fA6bb17A2B171b33f78F has already been verified.
-https://sepolia.etherscan.io/address/0xD0ec39434632A9F397d2999075C4037EB1c417a0*/
+/** Successfully verified contract FakeNFTMarketplace on the block explorer.
+https://sepolia.etherscan.io/address/0x4Cfb02A98580E80952f730581400384d164EDB2E#code  */
